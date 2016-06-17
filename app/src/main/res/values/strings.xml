@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlurView</string>
+    <string name="blur_me">Blur me please!</string>
+    <string name="description_text">Some Long Description Text\nSome Long Description Text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+</resources>
